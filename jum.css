@@ -1,0 +1,40 @@
+.jum{
+    
+    background-repeat: no-repeat;
+   background-color: #e9d7e4 !important;
+    text-align: center!important;
+    font-size: 40px !important;
+    justify-content: center;
+   
+}
+.ss{
+    font-size: 25px !important;
+}
+.t1{
+    justify-content: center;
+    margin-top: 90px !important;
+    display: block !important;
+    flex-direction: row !important;
+    text-align: center;
+}
+.mg{
+    margin: 0 1%;
+
+}
+.mg:hover{
+    transform: translate(4px 6px);
+    transform: matrix(40deg);
+    transform: all 5s;
+    opacity: 1-0;
+}
+.card{
+    border-radius: 1rem !important;
+    box-shadow: 5px 5px 5px !important;
+    display: block !important;
+}
+
+
+footer{
+    background-color: bisque;
+    text-align: center;
+}
